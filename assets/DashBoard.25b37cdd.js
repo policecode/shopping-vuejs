@@ -1,0 +1,1 @@
+import{_ as t,o as e,f as a,g as o,h as s,b as r}from"./index.7802f190.js";const n={setup(){return{}}},c=r("h1",null,"\u0110\xE2y l\xE0 trang qu\u1EA3n tr\u1ECB",-1);function _(l,u,d,p,f,h){return e(),a(s("dashboard-layout"),null,{default:o(()=>[c]),_:1})}const m=t(n,[["render",_]]);export{m as default};
